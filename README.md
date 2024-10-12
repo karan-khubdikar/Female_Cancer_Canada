@@ -1,7 +1,5 @@
 # Overview of Top 5 Cancer Types in Females in Canada (2012-2021)
 
-### Dashboard Link : *** INSERT RECORDING LINK HERE***
-
 This dashboard provides an interactive overview of the top 5 cancer types affecting females in Canada from 2012 to 2021. It was developed using Power BI and includes several key features and insights:
 
 ## Data Source and Cleaning:
@@ -19,9 +17,11 @@ The raw data was cleaned and processed using Python. The cleaned Excel file was 
 - **Average Cancer Cases by Type:** Visualizes the top 5 most prevalent cancers in females.
 - **Trend Over Time:** A line chart indicating fluctuations in cancer cases year over year.
 
-## Dashboard Snapshot
+## Dashboard Snapshot and Recording
 
 ![Dashboard_upload](https://github.com/karan-khubdikar/Female_Cancer_Canada/blob/main/Female_cancer_canada_screenshot.png)
+
+[Recording Link](Female_cancer_canada_video_final.mp4)
 
 ## Insights:
 
